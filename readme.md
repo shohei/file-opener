@@ -14,5 +14,5 @@ http://localhost:4568/pdf?=[Your pdf file path]
 
 You can open local files from the scrapbox.
 
-<video src="video/example.mov" controls="controls" style="max-width: 500px;">
-</video>
+![example](https://user-images.githubusercontent.com/855816/212560579-23875026-2437-43f3-a6e1-32a2970d85da.mov
+)
