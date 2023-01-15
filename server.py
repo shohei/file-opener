@@ -8,7 +8,8 @@ def main():
     pdf = request.args.get('pdf')
     if pdf==None:
         pdf = ""
-    cmd = "open " + pdf
+    pdf = pdf.replace("\s"," ")
+    cmd = "open " + "'"+pdf+"'"
     os.system(cmd)
     return "" 
 
