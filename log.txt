@@ -1,0 +1,13 @@
+ * Serving Flask app 'server'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4568
+ * Running on http://192.168.1.103:4568
+[33mPress CTRL+C to quit[0m
+ * Restarting with watchdog (fsevents)
+ * Debugger is active!
+ * Debugger PIN: 492-516-413
+192.168.1.103 - - [15/Jan/2023 21:26:09] "GET /?pdf=/Users/shohei/Dropbox/ebook/フランス語/仏作文/フランス語で日記をつけよう.pdf HTTP/1.1" 200 -
+127.0.0.1 - - [15/Jan/2023 21:26:36] "GET /?pdf=/Users/shohei/Dropbox/ebook/フランス語/仏作文/フランス語で日記をつけよう.pdf HTTP/1.1" 200 -
+127.0.0.1 - - [15/Jan/2023 21:26:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
