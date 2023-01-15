@@ -11,3 +11,13 @@
 192.168.1.103 - - [15/Jan/2023 21:26:09] "GET /?pdf=/Users/shohei/Dropbox/ebook/フランス語/仏作文/フランス語で日記をつけよう.pdf HTTP/1.1" 200 -
 127.0.0.1 - - [15/Jan/2023 21:26:36] "GET /?pdf=/Users/shohei/Dropbox/ebook/フランス語/仏作文/フランス語で日記をつけよう.pdf HTTP/1.1" 200 -
 127.0.0.1 - - [15/Jan/2023 21:26:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+The file /Users/shohei/Downloads/file-opener/Users/shohei/Dropbox/ebook/フランス語/仏作文/フランス語で日記をつけよう.pdf does not exist.
+127.0.0.1 - - [15/Jan/2023 21:31:51] "GET /?pdf=Users/shohei/Dropbox/ebook/フランス語/仏作文/フランス語で日記をつけよう.pdf HTTP/1.1" 200 -
+The file /Users/shohei/Downloads/file-opener/Users/shohei/Dropbox/ebook/フランス語/仏作文/フランス語で日記をつけよう.pdf does not exist.
+127.0.0.1 - - [15/Jan/2023 21:32:15] "GET /?pdf=Users/shohei/Dropbox/ebook/フランス語/仏作文/フランス語で日記をつけよう.pdf HTTP/1.1" 200 -
+The file /Users/shohei/Downloads/file-opener/Users/shohei/Dropbox/ebook/フランス語/仏作文/フランス語で日記をつけよう.pdf does not exist.
+127.0.0.1 - - [15/Jan/2023 21:32:20] "GET /?pdf=Users/shohei/Dropbox/ebook/フランス語/仏作文/フランス語で日記をつけよう.pdf HTTP/1.1" 200 -
+The file /Users/shohei/Downloads/file-opener/Users/shohei/Dropbox/ebook/フランス語/仏作文/フランス語で日記をつけよう.pdf does not exist.
+127.0.0.1 - - [15/Jan/2023 21:32:31] "GET /?pdf=Users/shohei/Dropbox/ebook/フランス語/仏作文/フランス語で日記をつけよう.pdf HTTP/1.1" 200 -
+127.0.0.1 - - [15/Jan/2023 21:32:59] "GET /?pdf=/Users/shohei/Dropbox/ebook/フランス語/仏作文/フランス語で日記をつけよう.pdf HTTP/1.1" 200 -
+127.0.0.1 - - [15/Jan/2023 21:33:46] "GET /?pdf=/Users/shohei/Dropbox/ebook/フランス語/仏作文/フランス語で日記をつけよう.pdf HTTP/1.1" 200 -

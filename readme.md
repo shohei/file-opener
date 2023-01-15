@@ -13,3 +13,6 @@ http://localhost:4568/pdf?=[Your pdf file path]
 ### Use case
 
 You can open local files from the scrapbox.
+
+<video src="video/example.mov" controls="controls" style="max-width: 500px;">
+</video>
