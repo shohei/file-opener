@@ -10,6 +10,12 @@ A pdf will open by entering the following URL.
 
 http://localhost:4568/pdf?=[Your pdf file path]
 
+### Caution
+Escape space character using \s
+```
+[http://localhost:4568?pdf=/Users/shohei/Dropbox/ebook/ロボット工学/確率ロボティクス/詳解\s確率ロボティクス\sPythonによる基礎アルゴリズムの実装.pdf 確率ロボティクス]
+```
+
 ### Use case
 
 You can open local files from the scrapbox.
