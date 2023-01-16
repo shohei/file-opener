@@ -1,3 +1,4 @@
 #!/bin/sh
 sudo echo ""
-sudo nohup python server.py > log.txt 2>&1 &
+DIR="$( cd "$( dirname "$0" )" && pwd -P )"
+sudo nohup python $DIR/server.py > log.txt 2>&1 &
